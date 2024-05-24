@@ -1,0 +1,1 @@
+rootProject.name = "com.laioffer.spotify_backend"

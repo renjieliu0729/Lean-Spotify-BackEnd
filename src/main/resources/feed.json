@@ -1,0 +1,89 @@
+[
+  {
+    "section_title": "Top mixes",
+    "albums": [
+      {
+        "id": 1,
+        "album": "Hexagonal",
+        "year": "2008",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/6/6d/Leessang-Hexagonal_%28cover%29.jpg",
+        "artists": "Lesssang",
+        "description": "Leessang (Korean: 리쌍) was a South Korean hip hop duo, composed of Kang Hee-gun (Gary or Garie) and Gil Seong-joon (Gil)"
+      },
+      {
+        "id": 2,
+        "album": "Still Fantasy",
+        "year": "2006",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/d/d1/Stillfantasy.jpg",
+        "artists": "Jay Chou",
+        "description": "Jay Chou(周杰伦; born January 18, 1979) is a Taiwanese singer, songwriter, record producer, rapper, actor, and television personality."
+      },
+      {
+        "id": 3,
+        "album": "Dangerous",
+        "year": "1991",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/1/11/Michaeljacksondangerous.jpg",
+        "artists": "Michale Jackson",
+        "description": "Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, dancer, and philanthropist. He is regarded as one of the most significant cultural figures of the 20th century."
+      },
+      {
+        "id": 4,
+        "album": "Kite",
+        "year": "2001",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/Stefanie_sun_kite.jpg",
+        "artists": "Stefanie Sun",
+        "description": "Stefanie Sun (孙燕姿) is a Singaporean singer-songwriter. In 2000, she released her debut album, Yan Zi, which won her a Golden Melody Award for Best New Artist."
+      }
+    ]
+  },
+  {
+    "section_title": "Made for you",
+    "albums": [
+      {
+        "id": 5,
+        "album": "No. 89757",
+        "year": "2005",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/9/9b/No89757.jpg",
+        "artists": "JJ Lin",
+        "description": "Wayne Lin Junjie (林俊傑, born 27 March 1981), better known by his stage name JJ Lin, is a Singaporean singer, songwriter, record producer and actor."
+      },
+      {
+        "id": 2,
+        "album": "Still Fantasy",
+        "year": "2006",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/d/d1/Stillfantasy.jpg",
+        "artists": "Jay Chou",
+        "description": "Jay Chou(周杰伦; born January 18, 1979) is a Taiwanese singer, songwriter, record producer, rapper, actor, and television personality."
+      }
+    ]
+  },
+  {
+    "section_title": "This Is: K-Music",
+    "albums": [
+      {
+        "id": 6,
+        "album": "Nxde",
+        "year": "2022",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/8/86/%28G%29I-dle_-_Nxde_Steve_Aoki_Remix.jpeg",
+        "artists": "(G)I-dle",
+        "description": "(G)I-dle (Korean: (여자)아이들), stylized in all caps, is a South Korean girl group formed by Cube Entertainment in 2018."
+      },
+      {
+        "id": 7,
+        "album": "Blackpink in Your Area",
+        "year": "2018",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/3/33/Black_Pink_Black_In_Your_Area_Digital_Cover.jpg",
+        "artists": "Blackpink",
+        "description": "Blackpink (Korean: 블랙핑크) is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa. "
+      },
+      {
+        "id": 1,
+        "album": "Hexagonal",
+        "year": "2008",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/6/6d/Leessang-Hexagonal_%28cover%29.jpg",
+        "artists": "Lesssang",
+        "description": "Leessang (Korean: 리쌍) was a South Korean hip hop duo, composed of Kang Hee-gun (Gary or Garie) and Gil Seong-joon (Gil)"
+      }
+    ]
+  }
+]

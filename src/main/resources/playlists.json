@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "songs": [
+      {
+        "name": "HEXAGONAL (Intro)",
+        "lyric": "Bizzy",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Hexagonal.mp3",
+        "length": "3:47"
+      },
+      {
+        "name": "Let`s Meet Now",
+        "lyric": "Gary, Jang Gi-ha",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Let_s_Meet_Now.mp3",
+        "length": "3:34"
+      },
+      {
+        "name": "The Woman Who Can't Break Up, The Man Who Can't Leave",
+        "lyric": "Gary",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Can_t_Breakup_Girl_Can_t_Breakaway_Boy.mp3",
+        "length": "4:44"
+      },
+      {
+        "name": "Carousel",
+        "lyric": "Gary",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Carousel.mp3",
+        "length": "4:13"
+      },
+      {
+        "name": "변해가네",
+        "lyric": "Gary, Kim Chang-ki",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Changing.mp3",
+        "length": "4:13"
+      },
+      {
+        "name": "Run",
+        "lyric": "Gary",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Run.mp3",
+        "length": "3:56"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "songs": [
+      {
+        "name": "夜的第七章",
+        "lyric": "Along Huang",
+        "src": "http://10.0.2.2:8080/songs/夜的第七章.mp3",
+        "length": "3:48"
+      },
+      {
+        "name": "听妈妈的话",
+        "lyric": "Jay Chou",
+        "src": "http://10.0.2.2:8080/songs/听妈妈的话.mp3",
+        "length": "3:34"
+      },
+      {
+        "name": "菊花台",
+        "lyric": "Vincent Fang",
+        "src": "http://10.0.2.2:8080/songs/菊花台.mp3",
+        "length": "4.53"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "songs": [
+      {
+        "name": "Dangerous",
+        "lyric": "Michael Jackson",
+        "src": "http://10.0.2.2:8080/songs/Dangerous.mp3",
+        "length": "4:45"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "songs": [
+      {
+        "name": "綠光",
+        "lyric": "Stefanie",
+        "src": "http://10.0.2.2:8080/songs/绿光.mp3",
+        "length": "3:31"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "songs": [
+      {
+        "name": "一千年以後",
+        "lyric": "JJ Lin",
+        "src": "http://10.0.2.2:8080/songs/一千年以后.mp3",
+        "length": "3:47"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "songs": [
+      {
+        "name": "Nxde",
+        "lyric": "(G)I-DLE",
+        "src": "http://10.0.2.2:8080/songs/(G)I-DLE_Nxde.mp3",
+        "length": "3:47"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "songs": [
+      {
+        "name": "Solo",
+        "lyric": "Jennie",
+        "src": "http://10.0.2.2:8080/songs/solo.mp3",
+        "length": "2:47"
+      },
+      {
+        "name": "Kill this love",
+        "lyric": "Blackpink",
+        "src": "http://10.0.2.2:8080/songs/kill_this_love.mp3",
+        "length": "3:22"
+      }
+    ]
+  }
+]
